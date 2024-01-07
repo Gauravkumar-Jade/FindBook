@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Book</string>
+    <string name="enter_book">Search book name / author / category</string>
+    <string name="loading_failed">Loading Failed!</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+</resources>
